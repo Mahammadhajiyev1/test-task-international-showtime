@@ -1,0 +1,68 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Artis International",
+    "slug": "Artis-International",
+    "address": "Schultergasse 5 1010 Wien +43 1 535 65 70",
+    "phone": "Schultergasse 5 1010 Wien +43 1 535 65 70",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=2"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-06-15T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Book Club - Ein neues Kapitel",
+      "start_at": "2023-05-11T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-22T16:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones und das Rad des Schicksals",
+      "start_at": "2023-06-29T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T16:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T17:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers: Aufstieg der Bestien",
+      "start_at": "2023-06-07T19:45:00",
+      "is_3d": false
+    }
+  ]
+}

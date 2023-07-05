@@ -1,0 +1,53 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Leoben",
+    "slug": "Cineplexx-Leoben",
+    "address": "Zirkusstraße 14 8700 Leoben +43 3842 28 888",
+    "phone": "Zirkusstraße 14 8700 Leoben +43 3842 28 888",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=76"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-22T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones und das Rad des Schicksals",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T17:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T19:45:00",
+      "is_3d": false
+    }
+  ]
+}

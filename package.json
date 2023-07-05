@@ -1,0 +1,14 @@
+{
+  "name": "task_international_showtime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawl-e/v0.6.5": "http://www.bitbucket.org/ishowtimes/crawl-e.git#v0.6.5"
+  },
+  "description": ""
+}

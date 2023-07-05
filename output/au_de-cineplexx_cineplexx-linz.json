@@ -1,0 +1,93 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Linz",
+    "slug": "Cineplexx-Linz",
+    "address": "Prinz-Eugen-Straße 22 4020 Linz +43 732 66 30 30",
+    "phone": "Prinz-Eugen-Straße 22 4020 Linz +43 732 66 30 30",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=20"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asterix & Obelix im Reich der Mitte",
+      "start_at": "2023-05-17T16:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-06-15T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Der Super Mario Bros. Film",
+      "start_at": "2023-04-05T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-06-23T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Unschärferelation der Liebe",
+      "start_at": "2023-06-30T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-05-17T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-08T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission Ulja Funk",
+      "start_at": "2023-06-29T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers: Aufstieg der Bestien",
+      "start_at": "2023-06-07T20:45:00",
+      "is_3d": false
+    }
+  ]
+}

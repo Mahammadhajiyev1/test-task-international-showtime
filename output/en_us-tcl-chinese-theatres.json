@@ -1,0 +1,120 @@
+{
+  "crawler": {
+    "id": "en_us-tcl-chinese-theatres",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "TCL Chinese Theatres",
+    "address": "6925 Hollywood Blvd, Hollywood, CA 90028",
+    "website": "http://www.tclchinesetheatres.com/",
+    "phone": "+1 323 461 3331"
+  },
+  "showtimes": [
+    {
+      "movie_title": "(IMAX) Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-04T21:55:00",
+      "is_3d": false,
+      "is_imax": true
+    },
+    {
+      "movie_title": "(IMAX) Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-11T10:30:00",
+      "is_3d": false,
+      "is_imax": true
+    },
+    {
+      "movie_title": "(MX4D) Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-04T20:55:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "(MX4D) Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-11T12:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission: Impossible - Dead Reckoning - Part One",
+      "start_at": "2023-07-14T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission: Impossible - Dead Reckoning - Part One",
+      "start_at": "2023-07-15T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission: Impossible - Dead Reckoning - Part One",
+      "start_at": "2023-07-17T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission: Impossible - Dead Reckoning - Part One",
+      "start_at": "2023-07-18T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-04T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-06T12:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-10T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "(DBOX) Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-04T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "(DBOX) Indiana Jones and the Dial of Destiny",
+      "start_at": "2023-07-06T12:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "(IMAX) Mission Impossible Dead Reckon Early Access",
+      "start_at": "2023-07-10T19:00:00",
+      "is_3d": false,
+      "is_imax": true
+    },
+    {
+      "movie_title": "Joy Ride Early Access Screening",
+      "start_at": "2023-07-05T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Barbie Blowout Party: Early Access Screening",
+      "start_at": "2023-07-19T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Grateful Dead Meet-Up At The Movies 2023",
+      "start_at": "2023-07-06T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Insidious: The Red Door",
+      "start_at": "2023-07-07T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-07-04T21:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across The Spider-Verse",
+      "start_at": "2023-07-04T21:45:00",
+      "is_3d": false
+    }
+  ]
+}

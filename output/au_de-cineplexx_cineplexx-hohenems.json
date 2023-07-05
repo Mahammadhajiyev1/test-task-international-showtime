@@ -1,0 +1,63 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Hohenems",
+    "slug": "Cineplexx-Hohenems",
+    "address": "Lustenauer Straße 112 6845 Hohenems +43 5576 74 4 99",
+    "phone": "Lustenauer Straße 112 6845 Hohenems +43 5576 74 4 99",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=28"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T17:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-06-15T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-05-17T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Guardians of the Galaxy: Vol. 3",
+      "start_at": "2023-05-03T19:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T20:20:00",
+      "is_3d": false
+    }
+  ]
+}

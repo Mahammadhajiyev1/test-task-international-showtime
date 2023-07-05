@@ -1,0 +1,33 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Stadtkino Villach",
+    "slug": "Stadtkino-Villach",
+    "address": "10. Oktober Straße 1 9500 Villach +43 4242 27 000",
+    "phone": "10. Oktober Straße 1 9500 Villach +43 4242 27 000",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=26"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Das Lehrerzimmer",
+      "start_at": "2023-05-12T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones und das Rad des Schicksals",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    }
+  ]
+}

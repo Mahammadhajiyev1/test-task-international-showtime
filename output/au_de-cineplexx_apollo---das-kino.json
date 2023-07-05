@@ -1,0 +1,103 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Apollo - Das Kino",
+    "slug": "Apollo---Das-Kino",
+    "address": "Gumpendorferstraße 63 1060 Wien +43 1 587 96 51",
+    "phone": "Gumpendorferstraße 63 1060 Wien +43 1 587 96 51",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=8"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asterix & Obelix im Reich der Mitte",
+      "start_at": "2023-05-17T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-06-15T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bed Rest",
+      "start_at": "2023-06-15T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-06-23T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Unschärferelation der Liebe",
+      "start_at": "2023-06-30T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Divertimento - Ein Orchester für alle",
+      "start_at": "2023-06-16T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Greatest Days",
+      "start_at": "2023-06-16T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Griechenland",
+      "start_at": "2023-02-23T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-08T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission Ulja Funk",
+      "start_at": "2023-06-29T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Und dann kam Dad",
+      "start_at": "2023-05-25T17:45:00",
+      "is_3d": false
+    }
+  ]
+}

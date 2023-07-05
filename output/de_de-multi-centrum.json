@@ -1,0 +1,287 @@
+{
+  "crawler": {
+    "id": "de_de-multi-centrum",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "MULTIKULTURELLES CENTRUM TEMPLIN E. V.",
+    "address": "Prenzlauer Allee 617268 Templin / Uckermark",
+    "website": "https://www.mkc-templin.de",
+    "phone": "03987/551063"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-06T14:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-06T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-07T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-08T14:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-08T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-09T14:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-09T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-10T14:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-07-10T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Nachbarn von Oben",
+      "start_at": "2023-07-06T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Nachbarn von Oben",
+      "start_at": "2023-07-08T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Nachbarn von Oben",
+      "start_at": "2023-07-09T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Geschichte einer Familie",
+      "start_at": "2023-07-10T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Geschichte einer Familie",
+      "start_at": "2023-07-13T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Geschichte einer Familie",
+      "start_at": "2023-07-21T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Geschichte einer Familie",
+      "start_at": "2023-07-27T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Oink",
+      "start_at": "2023-07-13T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Oink",
+      "start_at": "2023-07-17T10:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Oink",
+      "start_at": "2023-07-17T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-07-13T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-07-16T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-07-17T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-07-17T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Vilja & die Räuber",
+      "start_at": "2023-07-20T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-20T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-21T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-22T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-23T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-24T10:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-24T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-27T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-28T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-29T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-30T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-31T10:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Miraculous: Ladybug & Cat Noir",
+      "start_at": "2023-07-31T15:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-07-20T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-07-21T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-07-22T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-07-23T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-07-24T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-20T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-22T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-23T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-24T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-28T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-29T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-30T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Rumba-Therapie",
+      "start_at": "2023-07-31T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Love again",
+      "start_at": "2023-07-27T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Love again",
+      "start_at": "2023-07-28T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Love again",
+      "start_at": "2023-07-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Love again",
+      "start_at": "2023-07-30T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Love again",
+      "start_at": "2023-07-31T17:00:00",
+      "is_3d": false
+    }
+  ]
+}

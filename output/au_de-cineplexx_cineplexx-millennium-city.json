@@ -1,0 +1,83 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Millennium City",
+    "slug": "Cineplexx-Millennium-City",
+    "address": "Wehlistraße 66 1200 Wien +43 1 33 760",
+    "phone": "Wehlistraße 66 1200 Wien +43 1 33 760",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=120"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asterix & Obelix im Reich der Mitte",
+      "start_at": "2023-05-17T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-06-15T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bed Rest",
+      "start_at": "2023-06-15T21:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Book Club - Ein neues Kapitel",
+      "start_at": "2023-05-11T18:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Der Super Mario Bros. Film",
+      "start_at": "2023-04-05T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-05-17T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-08T16:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission Ulja Funk",
+      "start_at": "2023-06-29T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Boogeyman",
+      "start_at": "2023-06-01T21:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T17:45:00",
+      "is_3d": false
+    }
+  ]
+}

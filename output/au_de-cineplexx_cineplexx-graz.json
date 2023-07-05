@@ -1,0 +1,58 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Graz",
+    "slug": "Cineplexx-Graz",
+    "address": "Alte Poststraße 470 8055 Graz +43 316 29 09",
+    "phone": "Alte Poststraße 470 8055 Graz +43 316 29 09",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=73"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Asteroid City",
+      "start_at": "2023-06-15T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-05-17T19:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mavka - Hüterin des Waldes",
+      "start_at": "2023-06-08T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission Ulja Funk",
+      "start_at": "2023-06-29T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T20:00:00",
+      "is_3d": false
+    }
+  ]
+}

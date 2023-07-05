@@ -1,0 +1,28 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Urania Kino",
+    "slug": "Urania-Kino",
+    "address": "Urania Straße 1 1010 Wien +43 1 715 82 06",
+    "phone": "Urania Straße 1 1010 Wien +43 1 715 82 06",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=7"
+  },
+  "showtimes": [
+    {
+      "movie_title": "20.000 Arten von Bienen",
+      "start_at": "2023-06-30T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Unschärferelation der Liebe",
+      "start_at": "2023-06-30T18:00:00",
+      "is_3d": false
+    }
+  ]
+}

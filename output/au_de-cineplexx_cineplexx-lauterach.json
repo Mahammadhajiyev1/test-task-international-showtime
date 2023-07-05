@@ -1,0 +1,17 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Lauterach",
+    "slug": "Cineplexx-Lauterach",
+    "address": "Scheibenstraße 25 6923 Lauterach +43 5574 64 888",
+    "phone": "Scheibenstraße 25 6923 Lauterach +43 5574 64 888",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=81"
+  },
+  "showtimes": []
+}

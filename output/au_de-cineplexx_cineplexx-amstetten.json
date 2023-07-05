@@ -1,0 +1,43 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Amstetten",
+    "slug": "Cineplexx-Amstetten",
+    "address": "Waidhofner Straße 42b 3300 Amstetten-Greinsfurth +43 7472 676 76",
+    "phone": "Waidhofner Straße 42b 3300 Amstetten-Greinsfurth +43 7472 676 76",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=79"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bed Rest",
+      "start_at": "2023-06-15T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T19:30:00",
+      "is_3d": false
+    }
+  ]
+}

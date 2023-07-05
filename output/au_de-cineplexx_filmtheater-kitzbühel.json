@@ -1,0 +1,33 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Filmtheater Kitzbühel",
+    "slug": "Filmtheater-Kitzbühel",
+    "address": "Hinterstadt 18 6370 Kitzbühel +43 5356 62662",
+    "phone": "Hinterstadt 18 6370 Kitzbühel +43 5356 62662",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=59"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Indiana Jones und das Rad des Schicksals",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T17:30:00",
+      "is_3d": false
+    }
+  ]
+}

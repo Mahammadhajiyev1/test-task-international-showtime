@@ -1,0 +1,258 @@
+{
+  "crawler": {
+    "is_booking_link_capable": true,
+    "id": "en_en-golden-harvest",
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "海運戲院 (超巨幕)",
+    "slug": "海運戲院-(超巨幕)",
+    "address": "九龍尖沙咀廣東道3號海運大廈地下",
+    "phone": "23772100",
+    "website": "https://www.goldenharvest.com/cinema/schedule?cinema_id=3"
+  },
+  "showtimes": [
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-05T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=340984"
+    },
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-05T13:55:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=340985"
+    },
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-05T19:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=340976"
+    },
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-05T21:55:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=340971"
+    },
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-06T12:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=342102"
+    },
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-06T21:40:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=342104"
+    },
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-07T12:05:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=342111"
+    },
+    {
+      "movie_title": "奪寶奇兵之命運輪盤",
+      "start_at": "2023-07-07T17:10:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2372&cinema_id=3&film_show_id=342113"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-08T09:10:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342084"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-08T12:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342082"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-08T15:20:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342085"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-08T18:25:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342083"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-08T21:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342086"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-09T09:10:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342089"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-09T12:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342088"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-09T15:20:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342090"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-09T18:25:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342091"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-09T21:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342087"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-10T11:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342162"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-10T14:50:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342163"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-10T21:40:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342164"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-11T10:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342097"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-11T13:05:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342099"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-11T16:05:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342098"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-11T19:10:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342100"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-11T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342101"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-12T10:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342092"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-12T13:05:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342094"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-12T16:05:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342096"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-12T19:10:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342095"
+    },
+    {
+      "movie_title": "職業特工隊: 死亡清算 上集",
+      "start_at": "2023-07-12T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2384&cinema_id=3&film_show_id=342093"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-05T16:50:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=340975"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-06T10:05:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342105"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-06T15:10:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342106"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-06T17:20:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342107"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-06T19:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342103"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-07T10:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342108"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-07T15:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342112"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-07T20:05:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342109"
+    },
+    {
+      "movie_title": "元素大都會 (粵)",
+      "start_at": "2023-07-07T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.goldenharvest.com/film/seatPreview?film_id=2331&cinema_id=3&film_show_id=342110"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Innsbruck",
+    "slug": "Cineplexx-Innsbruck",
+    "address": "Tschamlerstraße 7 (Südring) 6020 Innsbruck +43 512 58 14 57",
+    "phone": "Tschamlerstraße 7 (Südring) 6020 Innsbruck +43 512 58 14 57",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=24"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-05-17T20:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Mission Ulja Funk",
+      "start_at": "2023-06-29T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers: Aufstieg der Bestien",
+      "start_at": "2023-06-07T20:45:00",
+      "is_3d": false
+    }
+  ]
+}

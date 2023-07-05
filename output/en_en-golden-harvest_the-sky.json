@@ -1,0 +1,17 @@
+{
+  "crawler": {
+    "is_booking_link_capable": true,
+    "id": "en_en-golden-harvest",
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "the sky",
+    "slug": "the-sky",
+    "address": "西九龍海庭道18號奧海城2期1樓",
+    "phone": "23593166",
+    "website": "https://www.goldenharvest.com/cinema/schedule?cinema_id=1"
+  },
+  "showtimes": []
+}

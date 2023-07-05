@@ -1,0 +1,63 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Annenhof Kino",
+    "slug": "Annenhof-Kino",
+    "address": "Annenstraße 29 8020 Graz +43 316 72 77",
+    "phone": "Annenstraße 29 8020 Graz +43 316 72 77",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=119"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-05-17T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones und das Rad des Schicksals",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T17:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers: Aufstieg der Bestien",
+      "start_at": "2023-06-07T20:15:00",
+      "is_3d": false
+    }
+  ]
+}

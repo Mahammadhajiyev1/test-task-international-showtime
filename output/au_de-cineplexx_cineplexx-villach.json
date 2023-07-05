@@ -1,0 +1,53 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Villach",
+    "slug": "Cineplexx-Villach",
+    "address": "Maria-Gailer-Straße 39 9500 Villach +43 4242 31 330",
+    "phone": "Maria-Gailer-Straße 39 9500 Villach +43 4242 31 330",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=27"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-22T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T17:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T17:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sword Art Online The Movie: Progressive - Aria of a Starless Night",
+      "start_at": "2023-06-27T19:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T19:45:00",
+      "is_3d": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Westfield SCS",
+    "slug": "Cineplexx-Westfield-SCS",
+    "address": "Westfield Shopping City Süd 2351 Wiener Neudorf +43 2236 686",
+    "phone": "Westfield Shopping City Süd 2351 Wiener Neudorf +43 2236 686",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=121"
+  },
+  "showtimes": []
+}

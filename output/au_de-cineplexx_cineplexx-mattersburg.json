@@ -1,0 +1,58 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Mattersburg",
+    "slug": "Cineplexx-Mattersburg",
+    "address": "Arenaplatz 7/1 7210 Mattersburg +43 2626 202 00",
+    "phone": "Arenaplatz 7/1 7210 Mattersburg +43 2626 202 00",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=117"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Bed Rest",
+      "start_at": "2023-06-15T20:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fast & Furious 10",
+      "start_at": "2023-05-17T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Indiana Jones und das Rad des Schicksals",
+      "start_at": "2023-06-29T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T18:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T16:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Flash",
+      "start_at": "2023-06-15T20:10:00",
+      "is_3d": false
+    }
+  ]
+}

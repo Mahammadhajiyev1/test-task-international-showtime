@@ -1,0 +1,58 @@
+{
+  "crawler": {
+    "id": "au_de-cineplexx",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "Cineplexx Parndorf",
+    "slug": "Cineplexx-Parndorf",
+    "address": "Gewerbestraße 5 7111 Parndorf +43 2166 23300",
+    "phone": "Gewerbestraße 5 7111 Parndorf +43 2166 23300",
+    "website": "https://www.cineplexx.at/filme/kinoprogramm/?center=118"
+  },
+  "showtimes": [
+    {
+      "movie_title": "Arielle, die Meerjungfrau",
+      "start_at": "2023-05-25T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bed Rest",
+      "start_at": "2023-06-15T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Elemental",
+      "start_at": "2023-06-22T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Get Up",
+      "start_at": "2023-06-29T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "No Hard Feelings",
+      "start_at": "2023-06-22T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ruby taucht ab",
+      "start_at": "2023-06-29T16:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spider-Man: Across the Spider-Verse",
+      "start_at": "2023-06-01T17:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Transformers: Aufstieg der Bestien",
+      "start_at": "2023-06-07T20:30:00",
+      "is_3d": false
+    }
+  ]
+}

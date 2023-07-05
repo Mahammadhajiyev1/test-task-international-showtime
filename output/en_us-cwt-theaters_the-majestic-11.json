@@ -1,0 +1,478 @@
+{
+  "crawler": {
+    "id": "en_us-cwt-theaters",
+    "is_booking_link_capable": false,
+    "crawl-e": {
+      "version": "0.6.5"
+    }
+  },
+  "cinema": {
+    "name": "The Majestic 11",
+    "slug": "The-Majestic-11",
+    "address": "940 14th Lane Vero Beach, FL 32960",
+    "phone": "772-770-0774",
+    "website": "https://www.cwtheaters.com/movie-theater/verobeach"
+  },
+  "showtimes": [
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-06T19:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "JOY RIDE",
+      "start_at": "2023-07-06T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-06T10:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-06T13:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-06T15:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-06T18:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-06T21:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INDIANA JONES AND THE DIAL OF DESTINY",
+      "start_at": "2023-07-06T10:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INDIANA JONES AND THE DIAL OF DESTINY",
+      "start_at": "2023-07-06T12:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INDIANA JONES AND THE DIAL OF DESTINY",
+      "start_at": "2023-07-06T13:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INDIANA JONES AND THE DIAL OF DESTINY",
+      "start_at": "2023-07-06T15:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INDIANA JONES AND THE DIAL OF DESTINY",
+      "start_at": "2023-07-06T16:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INDIANA JONES AND THE DIAL OF DESTINY",
+      "start_at": "2023-07-06T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INDIANA JONES AND THE DIAL OF DESTINY",
+      "start_at": "2023-07-06T21:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "RUBY GILLMAN, TEENAGE KRAKEN",
+      "start_at": "2023-07-06T10:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "RUBY GILLMAN, TEENAGE KRAKEN",
+      "start_at": "2023-07-06T12:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "RUBY GILLMAN, TEENAGE KRAKEN",
+      "start_at": "2023-07-06T14:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "RUBY GILLMAN, TEENAGE KRAKEN",
+      "start_at": "2023-07-06T16:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "RUBY GILLMAN, TEENAGE KRAKEN",
+      "start_at": "2023-07-06T18:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "RUBY GILLMAN, TEENAGE KRAKEN",
+      "start_at": "2023-07-06T20:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ASTEROID CITY",
+      "start_at": "2023-07-06T10:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ASTEROID CITY",
+      "start_at": "2023-07-06T13:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ASTEROID CITY",
+      "start_at": "2023-07-06T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ASTEROID CITY",
+      "start_at": "2023-07-06T18:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ASTEROID CITY",
+      "start_at": "2023-07-06T21:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "NO HARD FEELINGS",
+      "start_at": "2023-07-06T11:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "NO HARD FEELINGS",
+      "start_at": "2023-07-06T13:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "NO HARD FEELINGS",
+      "start_at": "2023-07-06T16:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "NO HARD FEELINGS",
+      "start_at": "2023-07-06T19:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "NO HARD FEELINGS",
+      "start_at": "2023-07-06T22:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ELEMENTAL",
+      "start_at": "2023-07-06T10:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ELEMENTAL",
+      "start_at": "2023-07-06T13:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ELEMENTAL",
+      "start_at": "2023-07-06T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "ELEMENTAL",
+      "start_at": "2023-07-06T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE FLASH",
+      "start_at": "2023-07-06T10:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE FLASH",
+      "start_at": "2023-07-06T13:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE FLASH",
+      "start_at": "2023-07-06T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE FLASH",
+      "start_at": "2023-07-06T19:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE FLASH",
+      "start_at": "2023-07-06T21:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSFORMERS: RISE OF THE BEASTS",
+      "start_at": "2023-07-06T10:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSFORMERS: RISE OF THE BEASTS",
+      "start_at": "2023-07-06T13:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSFORMERS: RISE OF THE BEASTS",
+      "start_at": "2023-07-06T16:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "TRANSFORMERS: RISE OF THE BEASTS",
+      "start_at": "2023-07-06T21:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+      "start_at": "2023-07-06T10:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+      "start_at": "2023-07-06T12:55:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+      "start_at": "2023-07-06T15:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+      "start_at": "2023-07-06T18:55:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+      "start_at": "2023-07-06T21:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE LITTLE MERMAID",
+      "start_at": "2023-07-06T10:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE LITTLE MERMAID",
+      "start_at": "2023-07-06T13:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE LITTLE MERMAID",
+      "start_at": "2023-07-06T15:55:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE LITTLE MERMAID",
+      "start_at": "2023-07-06T18:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "THE LITTLE MERMAID",
+      "start_at": "2023-07-06T21:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "KF DC LEAGUE OF SUPERPETS",
+      "start_at": "2023-07-06T10:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-07T11:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-07T13:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-07T16:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-07T19:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-07T13:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-07T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-07T19:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-08T11:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-08T13:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-08T16:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-08T19:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-08T13:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-08T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-08T19:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-09T11:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-09T13:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-09T16:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "INSIDIOUS: THE RED DOOR",
+      "start_at": "2023-07-09T19:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-09T13:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-09T16:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "SOUND OF FREEDOM",
+      "start_at": "2023-07-09T19:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-11T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-11T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-12T12:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-12T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-12T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-13T12:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-13T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-13T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-14T12:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-14T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-14T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-15T12:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-15T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-15T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-16T12:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-16T15:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "MISSION IMPOSSIBLE - DEAD RECKONING PART ONE",
+      "start_at": "2023-07-16T19:00:00",
+      "is_3d": false
+    }
+  ]
+}
